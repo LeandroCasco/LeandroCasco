@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I´m Leandro Casco 💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-**LeandroCasco/LeandroCasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/LeanCasco2001?color=%231DA1F2&label=LeanCasco2001&logo=twitter&style=for-the-badge)](https://twitter.com/LeanCasco2001)
 
 Here are some ideas to get you started:
 
