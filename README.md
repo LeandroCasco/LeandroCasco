@@ -21,6 +21,7 @@ I'm working on some projects, learning every day, and trying to be better every 
 - 📫 How to reach me: cascoleandro2001@gmail.com
 - 😄 Pronouns: Lean, Casquito
 - ⚡ Fun fact: ...
+- 📜 Favorite phrase: "Son nuestras elecciones, Harry, las que muestran lo que somos, mucho más que nuestras habilidades" J. K. Rowling
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀💻 Technologies & Tools
