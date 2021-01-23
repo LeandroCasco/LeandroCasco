@@ -20,7 +20,7 @@ I'm working on some projects, learning every day, and trying to be better every 
 - 💬 Ask me about HTML5 y CSS3
 - 📫 How to reach me: cascoleandro2001@gmail.com
 - 😄 Pronouns: Lean, Casquito
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am afraid of hospitals
 - 📜 Favorite phrase: "It is our choices, Harry, that show who we are, much more than our abilities." J. K. Rowling
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
