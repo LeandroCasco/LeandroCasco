@@ -15,8 +15,8 @@ I'm working on some projects, learning every day, and trying to be better every 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java Script
--👨‍💻 Most of my projects are available on Github.
--📝 In the future I would like to start a blog.
+- 👨‍💻 Most of my projects are available on Github.
+- 📝 In the future I would like to start a blog.
 - 💬 Ask me about HTML5 y CSS3
 - 📫 How to reach me: cascoleandro2001@gmail.com
 - 😄 Pronouns: Lean, Casquito
