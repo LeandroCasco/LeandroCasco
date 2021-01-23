@@ -13,7 +13,7 @@ I'm working on some projects, learning every day, and trying to be better every 
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java Script <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" />
+- 🌱 I’m currently learning Java Script
 -👨‍💻 Most of my projects are available on Github.
 -📝 In the future I would like to start a blog.
 - 💬 Ask me about HTML5 y CSS3
@@ -26,3 +26,4 @@ I'm working on some projects, learning every day, and trying to be better every 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![LeandroCasco's github stats](https://github-readme-stats.vercel.app/api?username=LeandroCasco&show_icons=true&theme=vision-friendly-dark)
