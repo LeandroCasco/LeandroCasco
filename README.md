@@ -2,7 +2,7 @@
 
 Hi 👋, I´m Leandro Casco. I´m 19 years old
 <p><em>I'm currently studying computer engineering at <a href="http://www.unb.br">University of Buenos Aires
-</a><img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="25"></p>
+</a><img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="27"></p>
 I'm working on some projects, learning every day, and trying to be better every day.
 
 
